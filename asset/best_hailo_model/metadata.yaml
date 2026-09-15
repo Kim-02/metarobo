@@ -1,6 +1,6 @@
-description: Ultralytics best model trained on /home/vic06/Desktop/metarobo/metarobo/yolo_learning/dataset/data.yaml
+description: Ultralytics best model trained on /content/dataset/data.yaml
 author: Ultralytics
-date: '2026-09-14T12:48:10.545826+09:00'
+date: '2026-09-15T17:19:02.762957+09:00'
 version: 8.4.150
 license: AGPL-3.0 License (https://ultralytics.com/license)
 docs: https://docs.ultralytics.com
